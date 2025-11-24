@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre Mi:
 🔭 Actualmente estoy trabajando en: Mis proyectos de clase del Grado Superior (DAM) y ejercicios básicos.<br><br>👯 Busco colaborar en: Proyectos sencillos de código abierto para principiantes.<br><br>🤝 Necesito ayuda con: Entender a fondo la Programación Orientada a Objetos (POO) en Java.<br><br>🌱 Estoy aprendiendo: Java, bases de datos SQL y maquetación con HTML/CSS.<br><br>💬 Pregúntame sobre: Cómo es estudiar desarrollo de aplicaciones hoy en día.<br><br>⚡ Dato curioso: Puedo pasar horas buscando un error que resultaba ser un punto y coma ; que faltaba.
 
 
